@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, Welcome!
+
+Hello!👋 My name is Manasa Gullapalli.
 
 <!--
 **Mgullapalli31/Mgullapalli31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->![thumbnail_IMG_3791](https://github.com/user-attachments/assets/321c0dec-4ec3-4b71-b646-dd8697ca7942)
+-->
 
